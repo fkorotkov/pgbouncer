@@ -4,6 +4,8 @@ env:
   LANG: C
   PGVERSION: 14
 
+experimental: true
+
 task:
   name: Linux (Debian/Ubuntu)
   matrix:
